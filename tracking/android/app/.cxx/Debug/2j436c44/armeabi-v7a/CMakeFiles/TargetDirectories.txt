@@ -1,0 +1,2 @@
+C:/Users/kakas/Desktop/Gradution_Project/tracking/android/app/.cxx/Debug/2j436c44/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/kakas/Desktop/Gradution_Project/tracking/android/app/.cxx/Debug/2j436c44/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.zip
+*.git
+*.DS_Store
+fastapi_server.zip

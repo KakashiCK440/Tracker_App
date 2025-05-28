@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300309849460",
+    "project_id": "graduation-project-8a0bd",
+    "storage_bucket": "graduation-project-8a0bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300309849460:android:577a6b108e3c669b077821",
+        "android_client_info": {
+          "package_name": "com.example.tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnImAy3BsyneykU467Hx6TMCdAU4y6CB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
